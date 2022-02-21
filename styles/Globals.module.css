@@ -1,0 +1,24 @@
+
+.roxo {
+   
+    padding: 0;
+    margin: 0;
+    background-color: rebeccapurple;
+    color: white;
+}
+
+.roxo h1 {
+    margin: 0;
+}
+.body {
+    height: 100%;
+    margin: 0;
+    background-color: black;
+}
+
+.coBody {
+    height: 100%;
+    margin: 0;
+    background-color: blue;
+
+}
