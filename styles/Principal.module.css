@@ -1,0 +1,27 @@
+
+.maxWidth {
+    max-width: 930px;
+} 
+.section{
+   
+    padding:  0;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    background-color: black;
+}
+@media(max-width: 690px ){
+    .section{
+        padding: 20px 0;
+    }
+}
+
+.top {
+    color: red;
+    display: flex;
+    background: url("/assets/img/logo.png");
+    height: 100vh;    
+    right: 800vh;
+    min-height: 500px;
+    width: 100%;
+}
